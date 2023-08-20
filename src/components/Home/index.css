@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.container1 {
+  background: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  height: 100vh;
+  background-size: cover;
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 60px;
+}
